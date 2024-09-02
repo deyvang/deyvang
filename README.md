@@ -23,7 +23,7 @@
 
 ###
 
-<p align="left">I'm Deyvang Misra, an engineering undergrad based in India.<br><br>- 🔭 I’m working as a Web Developer and a programmer.<br>- 📚 I'm currently learning more about Data Science, Deep Learning, Prompt Engineering and Competitive Programming.<br>- ⚡ In my free time I like to learn more about Machine Learning and Astrophysics, play football, and hit the gym.</p>
+<p align="left">I'm Deyvang Misra, an engineering undergrad based in India.<br><br>- 🔭 I’m working as a web developer and a programmer.<br>- 📚 I'm currently learning more about Data Science, Deep Learning, Prompt Engineering and Competitive Programming.<br>- ⚡ In my free time I like to learn more about Machine Learning and Astrophysics, play football, and hit the gym.</p>
 
 ###
 
